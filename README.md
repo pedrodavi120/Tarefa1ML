@@ -16,7 +16,7 @@ pip (gerenciador de pacotes do Python)
 Clone o repositório:
 
 git clone https://github.com/pedrodavi120/Tarefa1ML.git
-cd NOME_DO_SEU_REPOSITORIO
+cd Tarefa1ML
 
 ## Crie um ambiente virtual (recomendado):
 
