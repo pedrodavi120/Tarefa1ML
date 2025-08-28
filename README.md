@@ -33,14 +33,7 @@ scikit-learn
 pandas
 Pillow
 ```bash
-pip install -r requirements.txt
 
-Execute a aplicação Streamlit:
-No terminal, execute o seguinte comando:
+## Print da Aplicação em Funcionamento
 
-streamlit run app.py
 
-A aplicação será aberta automaticamente no seu navegador.
-
-Print da Aplicação em Funcionamento
-Substitua a imagem abaixo por um print da sua aplicação rodando.
