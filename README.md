@@ -7,7 +7,7 @@ A aplicação utiliza a biblioteca streamlit-drawable-canvas para permitir que o
 ## Como Executar o Projeto
 Siga os passos abaixo para executar a aplicação em seu ambiente local.
 
-## Pré-requisitos
+### Pré-requisitos
 Python 3.8 ou superior
 
 pip (gerenciador de pacotes do Python)
@@ -18,12 +18,12 @@ Clone o repositório:
 git clone https://github.com/pedrodavi120/Tarefa1ML.git
 cd Tarefa1ML
 
-## Crie um ambiente virtual (recomendado):
+### Crie um ambiente virtual (recomendado):
 
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 
-## Instale as dependências:
+### Instale as dependências:
 Crie um arquivo requirements.txt com o conteúdo abaixo e execute o comando pip:
 
 ## Print da Aplicação em Funcionamento
