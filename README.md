@@ -28,6 +28,14 @@ Crie um arquivo requirements.txt com o conteúdo abaixo e execute o comando pip:
 
 ## Print da Aplicação em Funcionamento
 
+### Print do programa identificando que NÃO é o o número 5.
+
 <p align="center">
     <img src="./streamlit.jpg" width="2000px">
+</p>
+
+### Print do programa identificando o número 5.
+
+<p align="center">
+    <img src="./streamlit2.jpg" width="2000px">
 </p>
