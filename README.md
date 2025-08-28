@@ -36,4 +36,6 @@ Pillow
 
 ## Print da Aplicação em Funcionamento
 
-
+<p align="center">
+    <img src="./.github/logo.png" width="200px">
+</p>
