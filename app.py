@@ -11,7 +11,7 @@ st.title("MNIST - Classificador Binário para o Dígito 5")
 st.markdown("Desenhe um dígito abaixo e clique em 'Prever' para ver se o modelo o identifica como '5'.")
 
 # --- Carregamento e Treinamento do Modelo ---
-# Usamos o cache do Streamlit para carregar os dados e treinar o modelo apenas uma vez.
+# Usei o cache do Streamlit para carregar os dados e treinar o modelo apenas uma vez.
 @st.cache_resource
 def load_and_train_model():
     """
@@ -98,7 +98,7 @@ if st.button("Prever"):
         else:
             st.error("O modelo previu que este dígito **NÃO é o número 5**.")
 
-        # Opcional: Exibe a imagem processada para depuração
+        # *Opcional* Exibe a imagem processada para depuração
         st.write("Imagem processada (28x28):")
         st.image(img_resized, width=150)
     else:
