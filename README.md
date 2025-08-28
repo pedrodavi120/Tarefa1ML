@@ -26,16 +26,8 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate
 ## Instale as dependências:
 Crie um arquivo requirements.txt com o conteúdo abaixo e execute o comando pip:
 
-streamlit
-streamlit-drawable-canvas
-numpy
-scikit-learn
-pandas
-Pillow
-```bash
-
 ## Print da Aplicação em Funcionamento
 
 <p align="center">
-    <img src="./.github/logo.png" width="200px">
+    <img src="./streamlit.jpg" width="2000px">
 </p>
